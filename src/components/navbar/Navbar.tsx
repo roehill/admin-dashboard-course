@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className="navbar">
       <div className="logo">
-        <span>oneweb</span>
+        <span>oneweb admin</span>
       </div>
       <div className="icons">
         <img src="/search.svg" alt="" className="icon" />
